@@ -1,0 +1,46 @@
+
+html {
+    background-color: rgb(64, 73, 87);
+    font-family: "Twinkle Star", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    
+}
+
+body {
+    color:rgb(92, 189, 189);
+
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+
+}
+
+.player {
+    font-size: 2rem;
+    display: inline-block;
+
+}
+
+img{
+    width: 80%;
+
+}
+
+footer {
+    color:rgb(253, 253, 253);
+    margin-top: 50px;
+
+}
+
+
