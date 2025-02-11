@@ -1,12 +1,10 @@
 
-html {
+body {
     font-family: "Delius Swash Caps", sans-serif;
     align-items: center;
     background-color: rgb(41, 40, 48);
     color:rgb(100, 187, 165);
-
-    
-}
+    }
 
 .container {
     width: 70%;
@@ -17,7 +15,6 @@ html {
 h1 {
     font-size: 100px;
     text-align: center;
-    /* border-bottom: 150px; */
 }
 
 
