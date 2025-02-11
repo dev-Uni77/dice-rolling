@@ -1,46 +1,49 @@
 
 html {
-    background-color: rgb(64, 73, 87);
-    font-family: "Twinkle Star", serif;
-    font-weight: 400;
-    font-style: normal;
-    text-align: center;
+    font-family: "Delius Swash Caps", sans-serif;
+    align-items: center;
+    background-color: rgb(41, 40, 48);
+    color:rgb(100, 187, 165);
+
     
 }
 
-body {
-    color:rgb(92, 189, 189);
-
-}
-
-h1{
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+h1 {
     font-size: 100px;
     text-align: center;
+    /* border-bottom: 150px; */
 }
 
-.dice {
+
+.dice{
     display: inline-block;
-    align-items: center;
-    margin: auto;
-    padding: auto;
-
+    text-align: center;
+    /* padding-block: 20px; */
+    /* margin: auto 300px auto 300px; */
 }
+
+
 
 .player {
-    font-size: 2rem;
-    display: inline-block;
-
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
 }
 
-img{
+img {
     width: 80%;
+  }
 
+.dice_link {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+    /* padding-top:200px; */
+    color: white;
 }
-
-footer {
-    color:rgb(253, 253, 253);
-    margin-top: 50px;
-
-}
-
-
